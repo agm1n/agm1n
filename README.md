@@ -1,16 +1,45 @@
-### Hi there 👋
+### Ola! <a href="https://www.example.by/cv"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF3Y2F6aHBhZHNkYTh6NndudWhmcmkxODVvOXV3YnZ3bXJxZWQxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sb9EkIPVOU1O8t1qy7/source.gif" width="7%"></a> I'm Serge :)
 
-<!--
-**agm1n/agm1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+#### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const serge = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "vietnam"],
+    technologies: {
+        backEnd: {
+            js: ["NodeJS", "Express", "NextJS"],
+            php: ["Symfony2", "Laravel", "Yii2", "Wordpress"],
+            misc: ["Python", "Bash", "GO", "Rust"],
+        },
+        frontend: {
+            js: ["React", "AngularJS", "BackboneJS", "jQuery"],
+            css: ["Bootstrap", "Materialize"],
+            bundlers: ["Vite", "Webpack", "Babel", "Gulp"],
+        },
+        mobileApp: {
+            native: ["React Native"]
+        },
+        devOps: ["AWS", "Docker🐳", "Vagrant"],
+        webServers: ["Nginx", "Apache", "Nodejs"],
+        databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
+        vcs: ["Git", "CVS", "Mercurial"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Mobile Applications"],
+    env: ["MacOs/Linux", "PHP Storm", "nvm", "Docker", "Chrome", "sublime text", "terminal"],
+    currentFocus: "No Focus point at this time",
+    funFact: "Web developers are architects in virtual (for now ) world. Created structures are becoming more real"
+};
+```
+
+<p align="center">
+<a href="https://in.linkedin.com/in/by_agm1n" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sqwertynski"/></a> <a href="example.by/cv" target="blank">
+<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/by_agm1n" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=agm1n&label=Profile%20views&color=0e75b6&style=flat" alt="agm1n" /> </p>
+<p align="right"> <img src="https://profile-counter.glitch.me/%7Bagm1n%7D/count.svg" /> </p>
