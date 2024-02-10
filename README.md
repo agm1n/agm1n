@@ -42,4 +42,3 @@ const serge = {
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=agm1n&label=Profile%20views&color=0e75b6&style=flat" alt="agm1n" /> </p>
-<p align="right"> <img src="https://profile-counter.glitch.me/%7Bagm1n%7D/count.svg" /> </p>
