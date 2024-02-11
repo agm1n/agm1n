@@ -7,7 +7,7 @@
 ```javascript
 const serge = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "PHP"],
+    code: ["Javascript", "Typescript", "NodeJs", "PHP", ],
     askMeAbout: ["web dev", "tech", "app dev", "vietnam"],
     technologies: {
         backEnd: {
@@ -27,7 +27,7 @@ const serge = {
         webServers: ["Nginx", "Apache", "Nodejs"],
         databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
         vcs: ["Git", "CVS", "Mercurial"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["development of voice assistant skills", "Telegram Bot and MiniApp development", "Jest", "Sockets ", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Mobile Applications"],
     env: ["MacOs/Linux", "PHP Storm", "nvm", "Docker", "Chrome", "sublime text", "terminal"],
