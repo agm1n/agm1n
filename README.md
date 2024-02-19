@@ -31,7 +31,7 @@ const serge = {
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Mobile Applications"],
     env: ["MacOs/Linux", "PHP Storm", "nvm", "Docker", "Chrome", "sublime text", "terminal"],
-    hobbies: ["swimming", "motorcycles", "enduro", "table tennis", "chess", "international travel", "AI", "Rust language", "cyber security"]
+    hobbies: ["swimming", "motorcycles", "enduro", "table tennis", "chess", "international travel", "AI", "Rust language", "cyber security"],
     currentFocus: "No Focus point at this time",
     funFact: "Web developers are architects in virtual (for now ) world. Created structures are becoming more real"
 };
