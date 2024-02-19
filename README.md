@@ -17,7 +17,7 @@ const serge = {
         },
         frontend: {
             js: ["React", "AngularJS", "BackboneJS", "jQuery"],
-            css: ["Bootstrap", "Materialize"],
+            css: ["Bootstrap", "Materialize", "Bulma"],
             bundlers: ["Vite", "Webpack", "Babel", "Gulp"],
         },
         mobileApp: {
