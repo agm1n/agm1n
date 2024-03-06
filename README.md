@@ -7,8 +7,8 @@
 ```javascript
 const serge = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "NodeJs", "PHP", ],
-    askMeAbout: ["web dev", "tech", "app dev", "vietnam"],
+    code: ["Javascript", "Typescript", "NodeJs", "PHP" ],
+    askMeAbout: ["web development", "tech", "app dev", "vietnam", "thailand"],
     technologies: {
         backEnd: {
             js: ["NodeJS", "Express", "NextJS"],
@@ -16,24 +16,23 @@ const serge = {
             misc: ["Python", "Bash", "GO", "Rust"],
         },
         frontend: {
-            js: ["React", "AngularJS", "BackboneJS", "jQuery"],
+            js: ["ReactJS", "AngularJS", "BackboneJS", "jQuery"],
             css: ["Bootstrap", "Materialize", "Bulma"],
-            bundlers: ["Vite", "Webpack", "Babel", "Gulp"],
+            bundlers: ["Vite", "Webpack", "Babel", "Gulp", "Sass", "Less"],
         },
         mobileApp: {
             native: ["React Native"]
         },
         devOps: ["AWS", "Docker🐳", "Vagrant"],
         webServers: ["Nginx", "Apache", "Nodejs"],
-        databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
+        databases: ["PostgreSQL", "MongoDB", "MySql", "Sqlite"],
         vcs: ["Git", "CVS", "Mercurial"],
-        misc: ["development of voice assistant skills", "Telegram Bot and MiniApp development", "Jest", "Sockets ", "php"]
+        misc: ["Development of voice assistant skills", "Telegram Bot and MiniApp development", "Jest", "Sockets ", "PHP"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Mobile Applications"],
-    env: ["MacOs/Linux", "PHP Storm", "nvm", "Docker", "Chrome", "sublime text", "terminal"],
-    hobbies: ["swimming", "motorcycles", "enduro", "table tennis", "chess", "international travel", "AI", "Rust language", "cyber security"],
-    currentFocus: "No Focus point at this time",
-    funFact: "Web developers are architects in virtual (for now ) world. Created structures are becoming more real"
+    env: ["MacOs/Linux", "PHP Storm", "NVM", "Docker", "Chrome", "sublime text", "terminal", "pnpm"],
+    hobbies: ["swimming", "motorcycles", "enduro", "jet skiing", "cooking", "animal volunteering", "table tennis", "chess", "international travel", "AI", "Rust language", "cyber security"],
+    currentFocus: "#OpenToWork",
 };
 ```
 
