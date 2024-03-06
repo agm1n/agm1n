@@ -1,8 +1,8 @@
-### Ola! <a href="https://www.example.by/cv"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF3Y2F6aHBhZHNkYTh6NndudWhmcmkxODVvOXV3YnZ3bXJxZWQxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sb9EkIPVOU1O8t1qy7/source.gif" width="7%"></a> I'm Serge :)
+# Ola! <a href="https://www.example.by/cv"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmF3Y2F6aHBhZHNkYTh6NndudWhmcmkxODVvOXV3YnZ3bXJxZWQxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sb9EkIPVOU1O8t1qy7/source.gif" width="7%"></a> I'm Serge :)
 
 <br />
 
-#### About me:
+## About me:
 
 ```javascript
 const serge = {
@@ -47,7 +47,7 @@ const serge = {
 </a>
 </p>
 
-Open Source Pet projects:
+## Open Source Pet projects:
 - [x] [Awesome CV/Resume builder] (https://github.com/agm1n/awesome-cv-builder) :tada:
 - [ ] Sync lib based on GitHub actions
 - [ ] Telegram Web App (Mini App) toolkit
