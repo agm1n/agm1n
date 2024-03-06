@@ -48,7 +48,7 @@ const serge = {
 </p>
 
 ## Open Source Pet projects:
-- [x] [Awesome CV/Resume builder] (https://github.com/agm1n/awesome-cv-builder) :tada:
+- [x] [Awesome CV/Resume builder](https://github.com/agm1n/awesome-cv-builder) :tada:
 - [ ] Sync lib based on GitHub actions
 - [ ] Telegram Web App (Mini App) toolkit
 
