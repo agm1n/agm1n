@@ -8,10 +8,10 @@
 const serge = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "NodeJs", "PHP" ],
-    askMeAbout: ["web development", "tech", "app dev", "vietnam", "thailand"],
+    askMeAbout: ["web development", "tech", "app dev", "vietnam", "thailand", "team lead", "architect"],
     technologies: {
         backEnd: {
-            js: ["NodeJS", "Express", "NextJS"],
+            js: ["NodeJS", "Express", "NextJS", "Typescript"],
             php: ["Symfony2", "Laravel", "Yii2", "Wordpress"],
             misc: ["Python", "Bash", "GO", "Rust"],
         },
@@ -23,14 +23,13 @@ const serge = {
         mobileApp: {
             native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Vagrant"],
+        devOps: ["AWS", "Docker🐳", "Vagrant", "DigitalOcean"],
         webServers: ["Nginx", "Apache", "Nodejs"],
-        databases: ["PostgreSQL", "MongoDB", "MySql", "Sqlite"],
-        vcs: ["Git", "CVS", "Mercurial"],
-        misc: ["Development of voice assistant skills", "Telegram Bot and MiniApp development", "Jest", "Sockets ", "PHP"]
+        databases: ["PostgreSQL", "MongoDB", "MySql", "Sqlite", "Qdrant"],
+        vcs: ["Git", "CVS", "Mercurial"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Mobile Applications"],
-    env: ["MacOs/Linux", "PHP Storm", "NVM", "Docker", "Chrome", "sublime text", "terminal", "pnpm"],
+    env: ["MacOs/Linux", "Cursor", "NVM", "Docker", "Chrome", "sublime text", "terminal", "pnpm"],
     hobbies: ["swimming", "motorcycles", "enduro", "jet skiing", "cooking", "animal volunteering", "table tennis", "chess", "international travel", "AI", "Rust language", "cyber security"],
     currentFocus: "#OpenToWork",
 };
